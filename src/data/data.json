@@ -1,0 +1,154 @@
+{
+  "Header": {
+    "title": "Wir haben das beste Personal",
+    "paragraph": "Personalvermittlung für Ihren Erfolg. Professionell, zuverlässig und effektiv. Vertrauen Sie auf uns, um die perfekte Arbeitsplatzlösung für Sie zu finden."
+  },
+  "About": {
+    "paragraph": "Batiste SP.ZO.O ist mehr als nur eine Personalvermittlungsagentur. Mit Leidenschaft, Innovationsgeist und Kompetenz verbinden wir Unternehmen und Talente. Unsere Dynamik, Branchenkenntnisse und das Streben nach Exzellenz machen uns zu Ihrem idealen Partner für Personalfragen.",
+    "Why": [
+      "Fachliche Expertise",
+      "Innovative Lösungen",
+      "Zielgerichtete Personalvermittlung",
+      "Passgenaue Talentauswahl"
+    ],
+    "Why2": [
+      "Effektive Kommunikation",
+      "Branchenübergreifende Erfahrung",
+      "Hohe Zuverlässigkeit",
+      "Persönlicher Service"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-search",
+      "name": "Executive Search",
+      "text": "Unser Team identifiziert und rekrutiert Führungskräfte, die Ihr Unternehmen auf die nächste Stufe bringen."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Talent Management",
+      "text": "Wir unterstützen Sie bei der Entwicklung und Bindung Ihrer wertvollsten Mitarbeiter."
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "Outplacement-Beratung",
+      "text": "Wir helfen Ihren Mitarbeitern, neue Karrieremöglichkeiten zu finden, wenn sich Ihre Geschäftsbedürfnisse ändern."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Fortbildung",
+      "text": "Wir bieten spezielle Trainingsprogramme, um die Fähigkeiten Ihres Teams zu verbessern und zu erweitern."
+    },
+    {
+      "icon": "fa fa-exclamation",
+      "name": "Problemlösung",
+      "text": "Wir helfen Ihnen, Personalprobleme effektiv zu lösen und eine positive Arbeitsumgebung zu schaffen."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Sprachdienstleistungen",
+      "text": "Unsere Sprachexperten unterstützen Sie bei der Überwindung sprachlicher Barrieren und fördern die Kommunikation in multikulturellen Teams."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Batiste SP.ZO.O liefert auch unter schwierigen Bedingungen exzellentes Personal. Ihre Zuverlässigkeit ist bemerkenswert.",
+      "name": "Dominik Schmid DB Netz AG"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Die Qualität des Personals von Batiste SP.ZO.O übertrifft stets die Erwartungen, dank ihrer sorgfältigen Auswahlverfahren.",
+      "name": "Franz Kindling Lufthansa"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Batiste SP.ZO.O ist erstklassig in der Personalvermittlung. Immer hilfsbereit, engagiert und lösungsorientiert.",
+      "name": "Nicole Galm Nestle"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Vladi Kudenov",
+      "job": "Betriebsleiter"
+    }
+  ],
+  "Contact": {
+    "address": "UI. AI. Jerozolimskie 85 Local 21 02-001 Warszawa",
+    "phone": "+1 123 456 1234",
+    "email": "office.batiste@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa  fa-connectdevelop",
+      "title": "Globales Netzwerk",
+      "text": " Mit Zugang zu einem weitreichenden globalen Talentpool können wir den idealen Kandidaten für jede Position finden."
+    },
+    {
+      "icon": "fa fa-check-circle",
+      "title": "Maßgeschneiderte Lösungen",
+      "text": "Jedes Unternehmen ist einzigartig, und so sind auch unsere Personalstrategien."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Dediziertes Team",
+      "text": "Unser engagiertes und erfahrenes Team ist stets bereit, Sie bei allen Personalfragen zu unterstützen und zu beraten."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Qualitätsgarantie",
+      "text": "Wir stehen für hohe Qualität in der Personalvermittlung und stellen sicher, dass unsere Kandidaten Ihren Anforderungen entsprechen."
+    }
+  ]
+}

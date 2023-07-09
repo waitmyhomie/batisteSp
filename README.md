@@ -1,1 +1,2 @@
-# batisteSp
+yarn
+yarn start
